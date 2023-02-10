@@ -1,2 +1,1 @@
-# lechaukha
-DUMP
+lechaukha
